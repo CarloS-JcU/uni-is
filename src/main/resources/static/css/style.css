@@ -1,0 +1,19 @@
+body {
+    padding-top: 5rem;
+}
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+}
+
+.my-table{
+    margin-top: 30px;
+}
+
+.w-8 {
+    width: 8.333%;
+}
+
+.w-16 {
+    width: 16.667%;
+}
